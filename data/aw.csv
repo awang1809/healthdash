@@ -1,0 +1,185 @@
+item,calories,saturated fat (g),trans fat (g),sugar (g),protein (g),sodium (mg),price
+,,,,,,,
+Buddy Burger,310,5,0.5,8,13,700,2.99
+,,,,,,,
+Buddy Cheeseburger,370,7,0.3,9,16,770,3.99
+,,,,,,,
+Chicken Buddy Burger,360,3,0,4,11,730,3.79
+,,,,,,,
+Spicy Chipotle Chicken Wrap,290,4,0,12,11,640,3.89
+,,,,,,,
+Bacon Chicken Wrap,290,2,0,1,11,680,3.89
+,,,,,,,
+Spicy Piri-Piri Beef Buddy,330,5,1,3,14,640,3.99
+,,,,,,,
+Spicy Piri-Piri Potato Buddy,320,2,0,4,7,640,3.99
+,,,,,,,
+Spicy Piri-Piri Chicken Buddy,320,1,0,6,12,620,3.99
+,,,,,,,
+Teen Burger,500,11,1,8,27,910,8.59
+,,,,,,,
+Mozza Burger,620,13,1,9,27,900,8.59
+,,,,,,,
+Double Teen Burger,680,19,2,8,43,990,10.69
+,,,,,,,
+Double Mozza Burger,800,19,1.5,8,41,950,10.69
+,,,,,,,
+Double Buddy Burger,435,9,1,7,21,730,3.99
+,,,,,,,
+Mama Burger,400,8,1,7,20,870,6.29
+,,,,,,,
+Papa Burger,580,13,2,7,40,950,8.39
+,,,,,,,
+Grandpa Burger,760,21,3,7,53,1000,10.59
+,,,,,,,
+Cheddar Bacon Uncle Burger,740,20,2,7,38,1095,11.59
+,,,,,,,
+Baby Burger,240,4,0.5,4,12,540,2.49
+,,,,,,,
+Chubby Chicken Cruncher,630,3,0,6,26,1430,10.19
+,,,,,,,
+Nashville Hot Chicken Cruncher,720,5,0,6,26,1700,10.19
+,,,,,,,
+BLT Chicken Cruncher,690,5,0,7,30,1630,11.19
+,,,,,,,
+Chubby Chicken Burger,490,3,0,4,21,1100,8.29
+,,,,,,,
+BLT Chicken Burger,600,4,0,6,25,1050,9.49
+,,,,,,,
+Double Chicken Buddy Burger,480,4,0,5,18,970,4.99
+,,,,,,,
+Spicy Habanero Chicken Burger,550,2,0,6,20,870,8.59
+,,,,,,,
+Chicken Strips,100,0,0,0,6,235,2.67
+,,,,,,,
+Masala Veggie Burger,490,7,0,6,15,890,7.29
+,,,,,,,
+Crispy Veggie Burger,570,8,0,6,15,830,7.29
+,,,,,,,
+A&W Plant-Based Burger,500,5,0,16,21,1260,8.99
+,,,,,,,
+Bacon & Egger,400,9,0,2,18,600,4.99
+,,,,,,,
+Sausage & Egger,530,12,0,5,24,760,4.99
+,,,,,,,
+Cheese & Egger,360,7,0,2,14,520,3.99
+,,,,,,,
+Sausage & Cheddar,460,11,0,5,17,700,4.19
+,,,,,,,
+Chicken & Cheddar,410,4,0,3,14,660,4.09
+,,,,,,,
+Spicy Chipotle Chicken & Cheddar,410,5,0,4,14,630,4.19
+,,,,,,,
+Classic Bacon & Eggs,550,9,0,2,30,820,8.79
+,,,,,,,
+All-Canadian Special,860,15,0,5,34,1250,10.79
+,,,,,,,
+Breakfast Wrap,230,5,0,2,13,400,3.59
+,,,,,,,
+Pancakes with Syrup,590,3,0,51,9,720,4.99
+,,,,,,,
+Hash Brown,180,0.5,0,0,2,270,2.29
+,,,,,,,
+Russet Thick-Cut Fries,340,1.5,0,0,5,320,4.09
+,,,,,,,
+Onion Rings,520,2.5,0.1,6,7,630,5.79
+,,,,,,,
+Sweet Potato Fries,360,1.5,0,17,4,115,5.39
+,,,,,,,
+Poutine,610,13,1,1,23,1240,6.39
+,,,,,,,
+Gravy,100,0.5,0,0,2,1390,1.5
+,,,,,,,
+Apple Turnover,280,3.5,0,14,3,190,1.79
+,,,,,,,
+Blueberry Turnover,280,3.5,0,14,3,190,1.79
+,,,,,,,
+Kids' Buddy Burger,280,4,0.5,4,12,510,4.38
+,,,,,,,
+Kids' Buddy Burger with Cheese,340,7,0.5,8,20,600,5.6
+,,,,,,,
+Kids' Chicken Strips,200,1,0,1,13,470,5.7
+,,,,,,,
+Kids' Chicken Buddy Burger,360,2,0,5,10,780,5.38
+,,,,,,,
+A&W Root Beer,160,0,0,38,0,75,2.89
+,,,,,,,
+A&W Root Beer Zero Sugar,1,0,0,0,0,100,2.89
+,,,,,,,
+Coca-Cola�,140,0,0,39,0,27,2.89
+,,,,,,,
+diet Coke�,0,0,0,0,0,50,2.89
+,,,,,,,
+Coke Zero�,0,0,0,0,0,40,2.89
+,,,,,,,
+Sprite�,140,0,0,38,0,65,2.89
+,,,,,,,
+Iced Tea,110,0,0,29,0,35,2.89
+,,,,,,,
+Lemonade,140,0,0,33,0,0,2.89
+,,,,,,,
+Frozen A&W Root Beer,200,0,0,48,0,90,4.29
+,,,,,,,
+A&W Root Beer Shake,230,8,0,55,6,100,4.79
+,,,,,,,
+Strawberry Icer,190,0,0,42,0,0,3.99
+,,,,,,,
+Mango Passionfruit Icer,190,0,0,47,0,2,3.99
+,,,,,,,
+Mixed Berry with Acai Icer,120,0,0,26,0,0,3.99
+,,,,,,,
+Mango Passionfruit Shake,270,6,0,50,5,40,4.39
+,,,,,,,
+Mixed Berry with Acai Shake,270,6,0,44,4,60,4.39
+,,,,,,,
+Strawberry Shake,260,6,0,42,4,40,4.39
+,,,,,,,
+Mango Passionfruit Smoothie,240,0,0,57,0,3,4.39
+,,,,,,,
+Mixed Berry with Acai Smoothie,220,0,0,50,0,0,4.39
+,,,,,,,
+Strawberry Smoothie,220,0,0,46,1,0,4.39
+,,,,,,,
+Iced Latte,90,2,0,9,6,90,4.19
+,,,,,,,
+Iced Vanilla Latte,110,2,0,10,6,90,4.59
+,,,,,,,
+Iced Caramel Latte,110,2,0,10,6,90,4.59
+,,,,,,,
+Iced Espresso Coffee,5,0,0,0,0,5,2.99
+,,,,,,,
+Orange Juice,160,0,0,36,0,0,3.89
+,,,,,,,
+Apple Juice,180,0,0,40,0,15,3.89
+,,,,,,,
+2% Milk,130,3,0.1,12,8,120,1.8
+,,,,,,,
+1% Chocolate Milk,150,1.5,0.1,25,8,170,1.8
+,,,,,,,
+Brewed Coffee,5,0,0,0,0,5,2.09
+,,,,,,,
+Latte,130,3,0,13,10,130,3.89
+,,,,,,,
+Flat White,140,0,0,15,12,170,3.69
+,,,,,,,
+Vanilla Latte,150,3,0,15,10,130,4.29
+,,,,,,,
+Caramel Latte,150,3,0,18,10,130,4.29
+,,,,,,,
+Cappuccino,140,3,0,13,10,130,3.99
+,,,,,,,
+Americano,5,0,0,0,0,5,2.59
+,,,,,,,
+Mocha,250,6,0,28,9,250,4.29
+,,,,,,,
+Espresso,5,0,0,0,0,5,1.49
+,,,,,,,
+Tea,3,0,0,0,0,8,1.99
+,,,,,,,
+Hot Chocolate,160,0.5,0,21,1,210,2.09
+,,,,,,,
+Chai Latte,240,4,0,33,6,100,4.29
+,,,,,,,
+Hot Chocolate Brew Bar,280,7,0,32,10,290,2.09
+,,,,,,,
+Teas,5,0,0,0,0,0,1.99

@@ -1,0 +1,15 @@
+{
+    "metric": "test",
+    "selected": [
+        {
+            "name": "mcdonalds"
+        },
+        {       
+            "name": "aw"
+        }
+    ],
+    "unselected": [
+    ],
+    "favourites": [
+    ]
+}

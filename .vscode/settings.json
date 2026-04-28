@@ -1,0 +1,14 @@
+{
+    "java.project.sourcePaths": [
+        "src/test",
+        "src/main",
+        "AlarmSystem/src/main/ca/ubc/cpsc210/alarm/ui"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ],
+    "java.checkstyle.configuration": "${workspaceFolder}\\checkstyle.xml",
+    "java.checkstyle.version": "10.2",
+    "java.jdt.ls.vmargs": "-XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx4G -Xms100m -Xlog:disable"
+}

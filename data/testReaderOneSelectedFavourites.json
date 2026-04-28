@@ -1,0 +1,21 @@
+{
+    "metric": "test",
+    "selected": [
+        {
+            "name": "mcdonalds"
+        }
+    ],
+    "unselected": [
+        {
+            "name": "aw"
+        }
+    ],
+    "favourites": [
+        {
+            "name": "Big Mac"
+        },
+        {
+            "name": "Apple Turnover"
+        }
+    ]
+}
